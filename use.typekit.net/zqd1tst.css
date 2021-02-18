@@ -1,0 +1,77 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * franklin-gothic-urw-comp:
+ *   - http://typekit.com/eulas/0000000000000000000118bb
+ * kepler-std:
+ *   - http://typekit.com/eulas/00000000000000000001313f
+ * kepler-std-display:
+ *   - http://typekit.com/eulas/000000000000000000013024
+ * open-sans:
+ *   - http://typekit.com/eulas/000000000000000000011c34
+ *   - http://typekit.com/eulas/000000000000000000011c38
+ *   - http://typekit.com/eulas/000000000000000000011c39
+ *   - http://typekit.com/eulas/000000000000000000011c3b
+ *   - http://typekit.com/eulas/000000000000000000011c3c
+ *
+ * © 2009-2020 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2020-05-04 22:23:21 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=zqd1tst&ht=tk&f=14541.14545.14546.14548.14549.10415.9871.18182&a=1890015&app=typekit&e=css");
+
+@font-face {
+font-family:"open-sans";
+src:url("https://use.typekit.net/af/2553b3/000000000000000000011c34/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/2553b3/000000000000000000011c34/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/2553b3/000000000000000000011c34/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"open-sans";
+src:url("https://use.typekit.net/af/4c54ad/000000000000000000011c38/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/4c54ad/000000000000000000011c38/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/4c54ad/000000000000000000011c38/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"open-sans";
+src:url("https://use.typekit.net/af/1ade3e/000000000000000000011c39/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/1ade3e/000000000000000000011c39/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/1ade3e/000000000000000000011c39/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;
+}
+
+@font-face {
+font-family:"open-sans";
+src:url("https://use.typekit.net/af/827015/000000000000000000011c3b/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/827015/000000000000000000011c3b/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/827015/000000000000000000011c3b/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"open-sans";
+src:url("https://use.typekit.net/af/270ae4/000000000000000000011c3c/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff2"),url("https://use.typekit.net/af/270ae4/000000000000000000011c3c/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff"),url("https://use.typekit.net/af/270ae4/000000000000000000011c3c/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;
+}
+
+@font-face {
+font-family:"franklin-gothic-urw-comp";
+src:url("https://use.typekit.net/af/63b6fe/0000000000000000000118bb/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/63b6fe/0000000000000000000118bb/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/63b6fe/0000000000000000000118bb/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"kepler-std";
+src:url("https://use.typekit.net/af/3f55d3/00000000000000000001313f/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/3f55d3/00000000000000000001313f/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/3f55d3/00000000000000000001313f/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"kepler-std-display";
+src:url("https://use.typekit.net/af/176972/000000000000000000013024/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/176972/000000000000000000013024/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/176972/000000000000000000013024/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+.tk-open-sans { font-family: "open-sans",sans-serif; }
+.tk-franklin-gothic-urw-comp,open sans { font-family: "franklin-gothic-urw-comp",sans-serif; }
+.tk-kepler-std { font-family: "kepler-std",serif; }
+.tk-kepler-std-display,open sans { font-family: "kepler-std-display",serif; }
